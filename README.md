@@ -1,0 +1,2 @@
+# straints
+pemrograaman android TMDB
